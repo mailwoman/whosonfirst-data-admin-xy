@@ -76,7 +76,6 @@
         "state_id":56120057
     },
     "wof:belongsto":[
-        85632209,
         1796661365
     ],
     "wof:breaches":[],
@@ -91,7 +90,6 @@
     "wof:hierarchy":[
         {
             "campus_id":102546487,
-            "country_id":85632209,
             "region_id":1796661365
         }
     ],

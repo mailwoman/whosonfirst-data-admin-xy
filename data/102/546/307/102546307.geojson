@@ -22,7 +22,6 @@
         "state_id":20070236
     },
     "wof:belongsto":[
-        85632683,
         85668289
     ],
     "wof:breaches":[],
@@ -34,7 +33,6 @@
     "wof:hierarchy":[
         {
             "campus_id":102546307,
-            "country_id":85632683,
             "region_id":85668289
         }
     ],

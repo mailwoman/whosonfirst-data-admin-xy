@@ -125,7 +125,6 @@
     "wof:belongsto":[
         102191569,
         85632359,
-        1108952563,
         1108564813,
         85673063
     ],
@@ -146,7 +145,6 @@
             "continent_id":102191569,
             "country_id":85632359,
             "county_id":1108564813,
-            "locality_id":1108952563,
             "neighbourhood_id":-1,
             "region_id":85673063
         }
@@ -154,7 +152,7 @@
     "wof:id":102554071,
     "wof:lastmodified":1690923377,
     "wof:name":"Pochentong Airport",
-    "wof:parent_id":1108952563,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
