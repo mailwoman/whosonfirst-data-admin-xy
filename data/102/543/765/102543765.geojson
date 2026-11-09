@@ -22,8 +22,7 @@
         "state_id":20070134
     },
     "wof:belongsto":[
-        85632383,
-        85675047
+        85632383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,14 +33,13 @@
     "wof:hierarchy":[
         {
             "campus_id":102543765,
-            "country_id":85632383,
-            "region_id":85675047
+            "country_id":85632383
         }
     ],
     "wof:id":102543765,
     "wof:lastmodified":1589218861,
     "wof:name":"Lilongwe Airport",
-    "wof:parent_id":85675047,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

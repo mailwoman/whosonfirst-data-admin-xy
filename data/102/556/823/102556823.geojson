@@ -149,9 +149,9 @@
             "country_id":85633159,
             "county_id":1880773233,
             "locality_id":101750305,
+            "macrocounty_id":1880762151,
             "macroregion_id":404227469,
-            "neighbourhood_id":-1,
-            "region_id":1360698545
+            "neighbourhood_id":-1
         }
     ],
     "wof:id":102556823,

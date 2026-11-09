@@ -22,8 +22,7 @@
         "state_id":20070406
     },
     "wof:belongsto":[
-        85633163,
-        85671281
+        85633163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,14 +33,13 @@
     "wof:hierarchy":[
         {
             "campus_id":102544399,
-            "country_id":85633163,
-            "region_id":85671281
+            "country_id":85633163
         }
     ],
     "wof:id":102544399,
     "wof:lastmodified":1589218868,
     "wof:name":"Poti East Airport",
-    "wof:parent_id":85671281,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

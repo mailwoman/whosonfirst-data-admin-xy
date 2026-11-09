@@ -307,8 +307,8 @@
         {
             "continent_id":-1,
             "country_id":-1,
-            "locality_id":890442741,
-            "region_id":85681209
+            "dependency_id":85632211,
+            "locality_id":890442741
         }
     ],
     "wof:id":890442741,

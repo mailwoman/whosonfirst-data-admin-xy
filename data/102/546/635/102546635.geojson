@@ -40,8 +40,7 @@
     "wof:belongsto":[
         85688923,
         85633813,
-        85783045,
-        102089243
+        85783045
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +52,6 @@
         {
             "campus_id":102546635,
             "country_id":85633813,
-            "county_id":102089243,
             "neighbourhood_id":85783045,
             "region_id":85688923
         }

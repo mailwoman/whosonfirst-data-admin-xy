@@ -87,7 +87,6 @@
         "state_id":2345719
     },
     "wof:belongsto":[
-        85768267,
         0,
         85632203,
         102018575,
@@ -108,14 +107,13 @@
             "country_id":85632203,
             "county_id":102073265,
             "locality_id":102018575,
-            "neighbourhood_id":85768267,
             "region_id":85672093
         }
     ],
     "wof:id":102552157,
     "wof:lastmodified":1690923121,
     "wof:name":"Adisucipto Airport",
-    "wof:parent_id":85768267,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

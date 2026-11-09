@@ -44,11 +44,11 @@
     "wof:geomhash":"83e15ca7275cf883624bb6fa862e15fa",
     "wof:hierarchy":[
         {
+            "borough_id":1158857285,
             "campus_id":102557035,
             "country_id":85633159,
             "locality_id":101750367,
-            "neighbourhood_id":85861677,
-            "region_id":85684613
+            "neighbourhood_id":85861677
         }
     ],
     "wof:id":102557035,

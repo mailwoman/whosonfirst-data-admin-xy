@@ -23,8 +23,7 @@
         "state_id":56049598
     },
     "wof:belongsto":[
-        85632533,
-        85673483
+        85632533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,14 +34,13 @@
     "wof:hierarchy":[
         {
             "campus_id":102553295,
-            "country_id":85632533,
-            "region_id":85673483
+            "country_id":85632533
         }
     ],
     "wof:id":102553295,
     "wof:lastmodified":1589218937,
     "wof:name":"Kleiat Airport",
-    "wof:parent_id":85673483,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

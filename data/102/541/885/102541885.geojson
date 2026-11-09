@@ -24,7 +24,6 @@
     },
     "wof:belongsto":[
         85633723,
-        101752165,
         85687323,
         102079927
     ],
@@ -39,14 +38,13 @@
             "campus_id":102541885,
             "country_id":85633723,
             "county_id":102079927,
-            "locality_id":101752165,
             "region_id":85687323
         }
     ],
     "wof:id":102541885,
     "wof:lastmodified":1589218976,
     "wof:name":"Jelenia Gora Airport",
-    "wof:parent_id":101752165,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

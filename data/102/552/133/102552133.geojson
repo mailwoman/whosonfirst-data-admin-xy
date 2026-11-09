@@ -46,7 +46,6 @@
     },
     "wof:belongsto":[
         85632203,
-        102019587,
         85671995,
         102072687
     ],
@@ -61,14 +60,13 @@
             "campus_id":102552133,
             "country_id":85632203,
             "county_id":102072687,
-            "locality_id":102019587,
             "region_id":85671995
         }
     ],
     "wof:id":102552133,
     "wof:lastmodified":1589218909,
     "wof:name":"Pondok Cabe Airport",
-    "wof:parent_id":102019587,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

@@ -24,8 +24,7 @@
         "state_id":24554868
     },
     "wof:belongsto":[
-        85633159,
-        85683641
+        85633159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,14 +35,13 @@
     "wof:hierarchy":[
         {
             "campus_id":102557093,
-            "country_id":85633159,
-            "region_id":85683641
+            "country_id":85633159
         }
     ],
     "wof:id":102557093,
     "wof:lastmodified":1589218837,
     "wof:name":"Kirkbride Airport",
-    "wof:parent_id":85683641,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

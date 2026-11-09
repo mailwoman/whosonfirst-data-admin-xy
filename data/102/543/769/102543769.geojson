@@ -32,8 +32,7 @@
         "state_id":56189818
     },
     "wof:belongsto":[
-        85632383,
-        85675001
+        85632383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +43,13 @@
     "wof:hierarchy":[
         {
             "campus_id":102543769,
-            "country_id":85632383,
-            "region_id":85675001
+            "country_id":85632383
         }
     ],
     "wof:id":102543769,
     "wof:lastmodified":1589218864,
     "wof:name":"Karonga Airport",
-    "wof:parent_id":85675001,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

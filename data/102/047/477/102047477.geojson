@@ -24,8 +24,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85633793,
-        85865451
+        85633793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +46,7 @@
     ],
     "wof:lastmodified":1566655548,
     "wof:name":"America/Nome",
-    "wof:parent_id":85865451,
+    "wof:parent_id":-1,
     "wof:placetype":"timezone",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

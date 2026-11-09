@@ -174,7 +174,6 @@
         85671995,
         102191569,
         85632203,
-        102020713,
         1108796785
     ],
     "wof:breaches":[],
@@ -194,14 +193,13 @@
             "continent_id":102191569,
             "country_id":85632203,
             "county_id":1108796785,
-            "locality_id":102020713,
             "region_id":85671995
         }
     ],
     "wof:id":102552069,
     "wof:lastmodified":1690923174,
     "wof:name":"Bandara Udara Internasional Soekarno-Hatta",
-    "wof:parent_id":102020713,
+    "wof:parent_id":-1,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
