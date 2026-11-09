@@ -31,7 +31,7 @@
         85633793,
         85923517,
         102086957,
-        85866227
+        1091736553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +53,7 @@
     "wof:id":102527269,
     "wof:lastmodified":1589218873,
     "wof:name":"Citicorp Plaza Heliport",
-    "wof:parent_id":85866227,
+    "wof:parent_id":1091736553,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

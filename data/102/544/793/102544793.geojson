@@ -25,7 +25,7 @@
     },
     "wof:belongsto":[
         85633147,
-        101884475,
+        1360698319,
         85683193,
         102065213
     ],
@@ -47,7 +47,7 @@
     "wof:id":102544793,
     "wof:lastmodified":1589218869,
     "wof:name":"Brienne le Chateau Airport",
-    "wof:parent_id":101884475,
+    "wof:parent_id":1360698319,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

@@ -130,7 +130,7 @@
         "suburb_id":2348708
     },
     "wof:belongsto":[
-        85772947,
+        1360116037,
         102191583,
         85633345,
         102079401,
@@ -161,7 +161,7 @@
     "wof:id":102552387,
     "wof:lastmodified":1690923179,
     "wof:name":"Christchurch International Airport",
-    "wof:parent_id":85772947,
+    "wof:parent_id":1360116037,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

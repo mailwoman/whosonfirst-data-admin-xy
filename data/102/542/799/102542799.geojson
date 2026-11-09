@@ -24,7 +24,7 @@
     },
     "wof:belongsto":[
         85633337,
-        85797391,
+        1158823003,
         85687053
     ],
     "wof:breaches":[],
@@ -44,7 +44,7 @@
     "wof:id":102542799,
     "wof:lastmodified":1589218884,
     "wof:name":"Den Helder Airport",
-    "wof:parent_id":85797391,
+    "wof:parent_id":1158823003,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

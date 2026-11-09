@@ -78,7 +78,6 @@
     "wd:wordcount":422,
     "wof:belongsto":[
         85632301,
-        85681367,
         102193527,
         136253055
     ],
@@ -105,7 +104,7 @@
     "wof:id":890435563,
     "wof:lastmodified":1690923887,
     "wof:name":"Husvik",
-    "wof:parent_id":85681367,
+    "wof:parent_id":85632301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],

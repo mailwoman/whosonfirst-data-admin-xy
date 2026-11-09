@@ -83,7 +83,6 @@
     "src:population":"gn",
     "wof:belongsto":[
         85632163,
-        85681227,
         102191583,
         136253057
     ],
@@ -111,7 +110,7 @@
     "wof:id":890449853,
     "wof:lastmodified":1690923873,
     "wof:name":"Yigo",
-    "wof:parent_id":85681227,
+    "wof:parent_id":85632163,
     "wof:placetype":"locality",
     "wof:population":20539,
     "wof:population_rank":7,

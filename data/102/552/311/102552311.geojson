@@ -29,7 +29,7 @@
         "suburb_id":2350082
     },
     "wof:belongsto":[
-        85782027,
+        1729338815,
         85633345,
         102079403,
         85687243
@@ -57,7 +57,7 @@
     "wof:id":102552311,
     "wof:lastmodified":1566656518,
     "wof:name":"Auckland Mechanics Bay Seaplane Base",
-    "wof:parent_id":85782027,
+    "wof:parent_id":1729338815,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-xy",
     "wof:superseded_by":[],
