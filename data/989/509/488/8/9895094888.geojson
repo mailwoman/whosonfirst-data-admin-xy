@@ -1,0 +1,114 @@
+{
+  "id": 9895094888,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"1976-10-01",
+    "edtf:inception":"1916-01-12",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"173.02,1.26,173.02,1.26",
+    "geom:latitude":1.26,
+    "geom:longitude":173.02,
+    "iso:country":"XY",
+    "mailwoman:sources":[
+        {
+            "citation":"Wikidata Q1050859, read on 2026-11-28: ISO 3166-3 code GEHH (P773), the standard's code for a country name it has withdrawn.",
+            "property":"wof:placetype",
+            "url":"https://www.wikidata.org/wiki/Q1050859"
+        },
+        {
+            "citation":"Wikidata Q1050859, read on 2026-11-28: its labels and English aliases",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Q1050859"
+        },
+        {
+            "citation":"Wikidata Q1050859, read on 2026-11-28: coordinate location (P625)",
+            "property":"geometry",
+            "url":"https://www.wikidata.org/wiki/Q1050859"
+        },
+        {
+            "citation":"Wikidata Q1050859, read on 2026-11-28: inception (P571) and dissolved, abolished or demolished date (P576)",
+            "property":"edtf:cessation",
+            "url":"https://www.wikidata.org/wiki/Q1050859"
+        },
+        {
+            "citation":"Wikidata Q1050859, read on 2026-11-28: replaced by (P1366)",
+            "property":"wof:superseded_by",
+            "url":"https://www.wikidata.org/wiki/Q1050859"
+        }
+    ],
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:deu_x_preferred":[
+        "Gilbert- und Elliceinseln"
+    ],
+    "name:eng_x_preferred":[
+        "Gilbert and Ellice Islands"
+    ],
+    "name:fin_x_preferred":[
+        "Gilbert- ja Ellicesaaret"
+    ],
+    "name:fra_x_preferred":[
+        "\u00celes Gilbert et Ellice"
+    ],
+    "name:ita_x_preferred":[
+        "Isole Gilbert ed Ellice"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ae\u30eb\u30d0\u30fc\u30c8\u304a\u3088\u3073\u30a8\u30ea\u30b9\u8af8\u5cf6"
+    ],
+    "name:nld_x_preferred":[
+        "Gilbert- en Ellice-eilanden"
+    ],
+    "name:pol_x_preferred":[
+        "Wyspy Gilberta i Lagunowe"
+    ],
+    "name:por_x_preferred":[
+        "Ilhas Gilbert e Ellice"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u0413\u0438\u043b\u0431\u0435\u0440\u0442\u0430 \u0438 \u042d\u043b\u043b\u0438\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Islas Gilbert y Ellice"
+    ],
+    "name:swe_x_preferred":[
+        "Gilbert- och Ellice\u00f6arna"
+    ],
+    "name:tur_x_preferred":[
+        "Gilbert ve Ellice Adalar\u0131"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u723e\u4f2f\u7279\u53ca\u57c3\u91cc\u65af\u7fa4\u5cf6"
+    ],
+    "src:geom":"wikidata",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q1050859"
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"c66ec8304c784a4da2c5c95da900856c",
+    "wof:hierarchy":[
+        {
+            "country_id":9895094888
+        }
+    ],
+    "wof:id":9895094888,
+    "wof:lastmodified":1795844240,
+    "wof:name":"Gilbert and Ellice Islands",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    173.02,
+    1.26,
+    173.02,
+    1.26
+],
+  "geometry": {"coordinates":[173.02,1.26],"type":"Point"}
+}
