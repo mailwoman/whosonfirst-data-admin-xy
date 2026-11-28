@@ -1,0 +1,132 @@
+{
+  "id": 9895094885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"1994-01-01",
+    "edtf:inception":"1947-01-01",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"152,10.5,152,10.5",
+    "geom:latitude":10.5,
+    "geom:longitude":152.0,
+    "iso:country":"XY",
+    "mailwoman:sources":[
+        {
+            "citation":"Wikidata Q129237, read on 2026-11-28: ISO 3166-3 code PCHH (P773), the standard's code for a country name it has withdrawn.",
+            "property":"wof:placetype",
+            "url":"https://www.wikidata.org/wiki/Q129237"
+        },
+        {
+            "citation":"Wikidata Q129237, read on 2026-11-28: its labels and English aliases",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Q129237"
+        },
+        {
+            "citation":"Wikidata Q129237, read on 2026-11-28: coordinate location (P625)",
+            "property":"geometry",
+            "url":"https://www.wikidata.org/wiki/Q129237"
+        },
+        {
+            "citation":"Wikidata Q129237, read on 2026-11-28: inception (P571) and dissolved, abolished or demolished date (P576)",
+            "property":"edtf:cessation",
+            "url":"https://www.wikidata.org/wiki/Q129237"
+        },
+        {
+            "citation":"Wikidata Q129237, read on 2026-11-28: replaced by (P1366)",
+            "property":"wof:superseded_by",
+            "url":"https://www.wikidata.org/wiki/Q129237"
+        }
+    ],
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0648\u0635\u0627\u064a\u0629 \u0644\u062c\u0632\u0631 \u0627\u0644\u0645\u062d\u064a\u0637 \u0627\u0644\u0647\u0627\u062f\u0626"
+    ],
+    "name:ces_x_preferred":[
+        "Poru\u010densk\u00e9 \u00fazem\u00ed Tichomo\u0159sk\u00e9 ostrovy"
+    ],
+    "name:deu_x_preferred":[
+        "Treuhandgebiet Pazifische Inseln"
+    ],
+    "name:eng_x_preferred":[
+        "Trust Territory of the Pacific Islands"
+    ],
+    "name:eng_x_variant":[
+        "TTPI"
+    ],
+    "name:fin_x_preferred":[
+        "Tyynenmeren saarten huoltohallintoalue"
+    ],
+    "name:fra_x_preferred":[
+        "territoire sous tutelle des \u00eeles du Pacifique"
+    ],
+    "name:hrv_x_preferred":[
+        "Starateljsko podru\u010dje Pacifi\u010dkih Otoka"
+    ],
+    "name:hun_x_preferred":[
+        "Csendes-\u00f3ce\u00e1ni-szigetek"
+    ],
+    "name:ita_x_preferred":[
+        "Territorio fiduciario delle Isole del Pacifico"
+    ],
+    "name:jpn_x_preferred":[
+        "\u592a\u5e73\u6d0b\u8af8\u5cf6\u4fe1\u8a17\u7d71\u6cbb\u9818"
+    ],
+    "name:nld_x_preferred":[
+        "Trustgebied van de Pacifische Eilanden"
+    ],
+    "name:pol_x_preferred":[
+        "Powiernicze Wyspy Pacyfiku"
+    ],
+    "name:por_x_preferred":[
+        "Protectorado das Ilhas do Pac\u00edfico das Na\u00e7\u00f5es Unidas"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u0434\u043e\u043f\u0435\u0447\u043d\u0430\u044f \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u0422\u0438\u0445\u043e\u043e\u043a\u0435\u0430\u043d\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Territorio en Fideicomiso de las Islas del Pac\u00edfico"
+    ],
+    "name:swe_x_preferred":[
+        "F\u00f6renta nationernas f\u00f6rvaltarskapsomr\u00e5de i Stilla havet"
+    ],
+    "name:tur_x_preferred":[
+        "Pasifik Adalar\u0131 G\u00fcven B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0434\u043e\u043f\u0456\u0447\u043d\u0430 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u044f \u041e\u041e\u041d \u0422\u0438\u0445\u043e\u043e\u043a\u0435\u0430\u043d\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:zho_x_preferred":[
+        "\u592a\u5e73\u6d0b\u7fa4\u5cf6\u8a17\u7ba1\u5730"
+    ],
+    "src:geom":"wikidata",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q129237"
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"ae9fd0a0324a8db013691e4c0098391e",
+    "wof:hierarchy":[
+        {
+            "country_id":9895094885
+        }
+    ],
+    "wof:id":9895094885,
+    "wof:lastmodified":1795844240,
+    "wof:name":"Trust Territory of the Pacific Islands",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    152.0,
+    10.5,
+    152.0,
+    10.5
+],
+  "geometry": {"coordinates":[152,10.5],"type":"Point"}
+}

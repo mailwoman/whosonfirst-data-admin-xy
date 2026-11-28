@@ -1,0 +1,140 @@
+{
+  "id": 9895094874,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2006-06-04",
+    "edtf:inception":"2003-01-01",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"19.78,43.15,19.78,43.15",
+    "geom:latitude":43.15,
+    "geom:longitude":19.78,
+    "iso:country":"XY",
+    "mailwoman:sources":[
+        {
+            "citation":"Wikidata Q37024, read on 2026-11-28: ISO 3166-3 code CSXX (P773), the standard's code for a country name it has withdrawn.",
+            "property":"wof:placetype",
+            "url":"https://www.wikidata.org/wiki/Q37024"
+        },
+        {
+            "citation":"Wikidata Q37024, read on 2026-11-28: its labels and English aliases",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Q37024"
+        },
+        {
+            "citation":"Wikidata Q37024, read on 2026-11-28: coordinate location (P625)",
+            "property":"geometry",
+            "url":"https://www.wikidata.org/wiki/Q37024"
+        },
+        {
+            "citation":"Wikidata Q37024, read on 2026-11-28: inception (P571) and dissolved, abolished or demolished date (P576)",
+            "property":"edtf:cessation",
+            "url":"https://www.wikidata.org/wiki/Q37024"
+        },
+        {
+            "citation":"Wikidata Q37024, read on 2026-11-28: replaced by (P1366)",
+            "property":"wof:superseded_by",
+            "url":"https://www.wikidata.org/wiki/Q37024"
+        }
+    ],
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0635\u0631\u0628\u064a\u0627 \u0648\u0627\u0644\u062c\u0628\u0644 \u0627\u0644\u0623\u0633\u0648\u062f"
+    ],
+    "name:ces_x_preferred":[
+        "Srbsko a \u010cern\u00e1 Hora"
+    ],
+    "name:deu_x_preferred":[
+        "Serbien und Montenegro"
+    ],
+    "name:eng_x_preferred":[
+        "Serbia and Montenegro"
+    ],
+    "name:eng_x_variant":[
+        "State Union of Serbia and Montenegro"
+    ],
+    "name:fin_x_preferred":[
+        "Serbia ja Montenegro"
+    ],
+    "name:fra_x_preferred":[
+        "Serbie-et-Mont\u00e9n\u00e9gro"
+    ],
+    "name:hrv_x_preferred":[
+        "Srbija i Crna Gora"
+    ],
+    "name:hun_x_preferred":[
+        "Szerbia \u00e9s Montenegr\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Serbia e Montenegro"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30eb\u30d3\u30a2\u30fb\u30e2\u30f3\u30c6\u30cd\u30b0\u30ed"
+    ],
+    "name:nld_x_preferred":[
+        "Servi\u00eb en Montenegro"
+    ],
+    "name:pol_x_preferred":[
+        "Serbia i Czarnog\u00f3ra"
+    ],
+    "name:por_x_preferred":[
+        "Uni\u00e3o Estatal da S\u00e9rvia e Montenegro"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0431\u0438\u044f \u0438 \u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Serbia y Montenegro"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0440\u0431\u0438\u0458\u0430 \u0438 \u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Serbien och Montenegro"
+    ],
+    "name:tur_x_preferred":[
+        "S\u0131rbistan-Karada\u011f"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u0440\u0431\u0456\u044f \u0456 \u0427\u043e\u0440\u043d\u043e\u0433\u043e\u0440\u0456\u044f"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5c14\u7ef4\u4e9a\u4e0e\u8499\u7279\u5185\u54e5\u7f57"
+    ],
+    "src:geom":"wikidata",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q37024"
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"f17489cca900593b5580b749d148c130",
+    "wof:hierarchy":[
+        {
+            "country_id":9895094874
+        }
+    ],
+    "wof:id":9895094874,
+    "wof:lastmodified":1795844240,
+    "wof:name":"Serbia and Montenegro",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        85632667,
+        85633755
+    ],
+    "wof:supersedes":[
+        9895094882
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    19.78,
+    43.15,
+    19.78,
+    43.15
+],
+  "geometry": {"coordinates":[19.78,43.15],"type":"Point"}
+}

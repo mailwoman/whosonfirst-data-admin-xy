@@ -1,0 +1,134 @@
+{
+  "id": 9895094877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"1976-07-02",
+    "edtf:inception":"1945-09-02",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.85,21.033333,105.85,21.033333",
+    "geom:latitude":21.033333,
+    "geom:longitude":105.85,
+    "iso:country":"XY",
+    "mailwoman:sources":[
+        {
+            "citation":"Wikidata Q172640, read on 2026-11-28: ISO 3166-3 code VDVN (P773), the standard's code for a country name it has withdrawn.",
+            "property":"wof:placetype",
+            "url":"https://www.wikidata.org/wiki/Q172640"
+        },
+        {
+            "citation":"Wikidata Q172640, read on 2026-11-28: its labels and English aliases",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Q172640"
+        },
+        {
+            "citation":"Wikidata Q172640, read on 2026-11-28: coordinate location (P625)",
+            "property":"geometry",
+            "url":"https://www.wikidata.org/wiki/Q172640"
+        },
+        {
+            "citation":"Wikidata Q172640, read on 2026-11-28: inception (P571) and dissolved, abolished or demolished date (P576)",
+            "property":"edtf:cessation",
+            "url":"https://www.wikidata.org/wiki/Q172640"
+        },
+        {
+            "citation":"Wikidata Q172640, read on 2026-11-28: replaced by (P1366)",
+            "property":"wof:superseded_by",
+            "url":"https://www.wikidata.org/wiki/Q172640"
+        }
+    ],
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u0627\u0644 \u0641\u064a\u062a\u0646\u0627\u0645"
+    ],
+    "name:ces_x_preferred":[
+        "Vietnamsk\u00e1 demokratick\u00e1 republika"
+    ],
+    "name:deu_x_preferred":[
+        "Nordvietnam"
+    ],
+    "name:eng_x_preferred":[
+        "North Vietnam"
+    ],
+    "name:eng_x_variant":[
+        "Democratic Republic of Vietnam",
+        "Vietnam (North)",
+        "DR Vietnam"
+    ],
+    "name:fin_x_preferred":[
+        "Pohjois-Vietnam"
+    ],
+    "name:fra_x_preferred":[
+        "r\u00e9publique d\u00e9mocratique du Vietnam"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c9szak-Vietn\u00e1m"
+    ],
+    "name:ita_x_preferred":[
+        "Vietnam del Nord"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d9\u30c8\u30ca\u30e0\u6c11\u4e3b\u5171\u548c\u56fd"
+    ],
+    "name:nld_x_preferred":[
+        "Noord-Vietnam"
+    ],
+    "name:pol_x_preferred":[
+        "Wietnam P\u00f3\u0142nocny"
+    ],
+    "name:por_x_preferred":[
+        "Vietname do Norte"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0412\u044c\u0435\u0442\u043d\u0430\u043c"
+    ],
+    "name:spa_x_preferred":[
+        "Vietnam del Norte"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u0432\u0435\u0440\u043d\u0438 \u0412\u0438\u0458\u0435\u0442\u043d\u0430\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Nordvietnam"
+    ],
+    "name:tur_x_preferred":[
+        "Kuzey Vietnam"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0412'\u0454\u0442\u043d\u0430\u043c"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d8a\u5357\u6c11\u4e3b\u5171\u548c\u570b"
+    ],
+    "src:geom":"wikidata",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q172640"
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"fde05cd56b59e09698ebf8a8644f4a8f",
+    "wof:hierarchy":[
+        {
+            "country_id":9895094877
+        }
+    ],
+    "wof:id":9895094877,
+    "wof:lastmodified":1795844240,
+    "wof:name":"North Vietnam",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.85,
+    21.033333,
+    105.85,
+    21.033333
+],
+  "geometry": {"coordinates":[105.85,21.033333],"type":"Point"}
+}

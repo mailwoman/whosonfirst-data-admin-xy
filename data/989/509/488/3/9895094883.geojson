@@ -1,0 +1,130 @@
+{
+  "id": 9895094883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"1979-10-01",
+    "edtf:inception":"1903-01-01",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-79.720167,9.117669,-79.720167,9.117669",
+    "geom:latitude":9.117669,
+    "geom:longitude":-79.720167,
+    "iso:country":"XY",
+    "mailwoman:sources":[
+        {
+            "citation":"Wikidata Q498979, read on 2026-11-28: ISO 3166-3 code PZPA (P773), the standard's code for a country name it has withdrawn.",
+            "property":"wof:placetype",
+            "url":"https://www.wikidata.org/wiki/Q498979"
+        },
+        {
+            "citation":"Wikidata Q498979, read on 2026-11-28: its labels and English aliases",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Q498979"
+        },
+        {
+            "citation":"Wikidata Q498979, read on 2026-11-28: coordinate location (P625)",
+            "property":"geometry",
+            "url":"https://www.wikidata.org/wiki/Q498979"
+        },
+        {
+            "citation":"Wikidata Q498979, read on 2026-11-28: inception (P571) and dissolved, abolished or demolished date (P576)",
+            "property":"edtf:cessation",
+            "url":"https://www.wikidata.org/wiki/Q498979"
+        },
+        {
+            "citation":"Wikidata Q498979, read on 2026-11-28: replaced by (P1366)",
+            "property":"wof:superseded_by",
+            "url":"https://www.wikidata.org/wiki/Q498979"
+        }
+    ],
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0629 \u0642\u0646\u0627\u0629 \u0628\u0646\u0645\u0627"
+    ],
+    "name:ces_x_preferred":[
+        "Panamsk\u00e9 pr\u016fplavov\u00e9 p\u00e1smo"
+    ],
+    "name:deu_x_preferred":[
+        "Panamakanalzone"
+    ],
+    "name:eng_x_preferred":[
+        "Panama Canal Zone"
+    ],
+    "name:eng_x_variant":[
+        "Zona del Canal de Panam\u00e1",
+        "Zona del Canal de Panama"
+    ],
+    "name:fin_x_preferred":[
+        "Panaman kanavavy\u00f6hyke"
+    ],
+    "name:fra_x_preferred":[
+        "Zone du canal de Panama"
+    ],
+    "name:hun_x_preferred":[
+        "Panama-csatorna-\u00f6vezet"
+    ],
+    "name:ita_x_preferred":[
+        "Zona del Canale di Panama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30ca\u30de\u904b\u6cb3\u5730\u5e2f"
+    ],
+    "name:nld_x_preferred":[
+        "Panamakanaalzone"
+    ],
+    "name:pol_x_preferred":[
+        "Strefa Kana\u0142u Panamskiego"
+    ],
+    "name:por_x_preferred":[
+        "Zona do Canal do Panam\u00e1"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u043e\u043d\u0430 \u041f\u0430\u043d\u0430\u043c\u0441\u043a\u043e\u0433\u043e \u043a\u0430\u043d\u0430\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Zona del Canal de Panam\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Panamakanalzonen"
+    ],
+    "name:tur_x_preferred":[
+        "Panama Kanal B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u043e\u043d\u0430 \u041f\u0430\u043d\u0430\u043c\u0441\u044c\u043a\u043e\u0433\u043e \u043a\u0430\u043d\u0430\u043b\u0443"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62ff\u99ac\u904b\u6cb3\u5340"
+    ],
+    "src:geom":"wikidata",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q498979"
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"f79c6138f972967bbd96015abaf02f97",
+    "wof:hierarchy":[
+        {
+            "country_id":9895094883
+        }
+    ],
+    "wof:id":9895094883,
+    "wof:lastmodified":1795844240,
+    "wof:name":"Panama Canal Zone",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -79.720167,
+    9.117669,
+    -79.720167,
+    9.117669
+],
+  "geometry": {"coordinates":[-79.720167,9.117669],"type":"Point"}
+}

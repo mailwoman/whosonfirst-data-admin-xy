@@ -1,0 +1,140 @@
+{
+  "id": 9895094871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"1992-12-31",
+    "edtf:inception":"1918-10-28",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.416667,50.083333,14.416667,50.083333",
+    "geom:latitude":50.083333,
+    "geom:longitude":14.416667,
+    "iso:country":"XY",
+    "mailwoman:sources":[
+        {
+            "citation":"Wikidata Q33946, read on 2026-11-28: ISO 3166-3 code CSHH (P773), the standard's code for a country name it has withdrawn.",
+            "property":"wof:placetype",
+            "url":"https://www.wikidata.org/wiki/Q33946"
+        },
+        {
+            "citation":"Wikidata Q33946, read on 2026-11-28: its labels and English aliases",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Q33946"
+        },
+        {
+            "citation":"Wikidata Q33946, read on 2026-11-28: coordinate location (P625)",
+            "property":"geometry",
+            "url":"https://www.wikidata.org/wiki/Q33946"
+        },
+        {
+            "citation":"Wikidata Q33946, read on 2026-11-28: inception (P571) and dissolved, abolished or demolished date (P576)",
+            "property":"edtf:cessation",
+            "url":"https://www.wikidata.org/wiki/Q33946"
+        },
+        {
+            "citation":"Wikidata Q33946, read on 2026-11-28: replaced by (P1366)",
+            "property":"wof:superseded_by",
+            "url":"https://www.wikidata.org/wiki/Q33946"
+        }
+    ],
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u064a\u0643\u0648\u0633\u0644\u0648\u0641\u0627\u0643\u064a\u0627"
+    ],
+    "name:ces_x_preferred":[
+        "\u010ceskoslovensko"
+    ],
+    "name:deu_x_preferred":[
+        "Tschechoslowakei"
+    ],
+    "name:eng_x_preferred":[
+        "Czechoslovakia"
+    ],
+    "name:eng_x_variant":[
+        "Czecho-Slovakia",
+        "cs",
+        "TCH",
+        "\u010ceskoslovensko",
+        "Federation of Czechoslovakia",
+        "People's Republic of Czechoslovakia"
+    ],
+    "name:fin_x_preferred":[
+        "T\u0161ekkoslovakia"
+    ],
+    "name:fra_x_preferred":[
+        "Tch\u00e9coslovaquie"
+    ],
+    "name:hrv_x_preferred":[
+        "\u010cehoslova\u010dka"
+    ],
+    "name:hun_x_preferred":[
+        "Csehszlov\u00e1kia"
+    ],
+    "name:ita_x_preferred":[
+        "Cecoslovacchia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30a7\u30b3\u30b9\u30ed\u30d0\u30ad\u30a2"
+    ],
+    "name:nld_x_preferred":[
+        "Tsjecho-Slowakije"
+    ],
+    "name:pol_x_preferred":[
+        "Czechos\u0142owacja"
+    ],
+    "name:por_x_preferred":[
+        "Checoslov\u00e1quia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0435\u0445\u043e\u0441\u043b\u043e\u0432\u0430\u043a\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Checoslovaquia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0427\u0435\u0445\u043e\u0441\u043b\u043e\u0432\u0430\u0447\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Tjeckoslovakien"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7ekoslovakya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0435\u0445\u043e\u0441\u043b\u043e\u0432\u0430\u0447\u0447\u0438\u043d\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u6377\u514b\u65af\u6d1b\u4f10\u514b"
+    ],
+    "src:geom":"wikidata",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q33946"
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"cc688d72de905632b68cdfdb3b1b0100",
+    "wof:hierarchy":[
+        {
+            "country_id":9895094871
+        }
+    ],
+    "wof:id":9895094871,
+    "wof:lastmodified":1795844240,
+    "wof:name":"Czechoslovakia",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.416667,
+    50.083333,
+    14.416667,
+    50.083333
+],
+  "geometry": {"coordinates":[14.416667,50.083333],"type":"Point"}
+}

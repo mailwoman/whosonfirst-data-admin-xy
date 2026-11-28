@@ -1,0 +1,158 @@
+{
+  "id": 9895094870,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"1991-12-26",
+    "edtf:inception":"1922-12-30",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90,65,90,65",
+    "geom:latitude":65.0,
+    "geom:longitude":90.0,
+    "iso:country":"XY",
+    "mailwoman:sources":[
+        {
+            "citation":"Wikidata Q15180, read on 2026-11-28: ISO 3166-3 code SUHH (P773), the standard's code for a country name it has withdrawn.",
+            "property":"wof:placetype",
+            "url":"https://www.wikidata.org/wiki/Q15180"
+        },
+        {
+            "citation":"Wikidata Q15180, read on 2026-11-28: its labels and English aliases",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Q15180"
+        },
+        {
+            "citation":"Wikidata Q15180, read on 2026-11-28: coordinate location (P625)",
+            "property":"geometry",
+            "url":"https://www.wikidata.org/wiki/Q15180"
+        },
+        {
+            "citation":"Wikidata Q15180, read on 2026-11-28: inception (P571) and dissolved, abolished or demolished date (P576)",
+            "property":"edtf:cessation",
+            "url":"https://www.wikidata.org/wiki/Q15180"
+        },
+        {
+            "citation":"Wikidata Q15180, read on 2026-11-28: replaced by (P1366)",
+            "property":"wof:superseded_by",
+            "url":"https://www.wikidata.org/wiki/Q15180"
+        }
+    ],
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0633\u0648\u0641\u064a\u062a\u064a"
+    ],
+    "name:ces_x_preferred":[
+        "Sov\u011btsk\u00fd svaz"
+    ],
+    "name:deu_x_preferred":[
+        "Sowjetunion"
+    ],
+    "name:eng_x_preferred":[
+        "Soviet Union"
+    ],
+    "name:eng_x_variant":[
+        "Union of Soviet Socialist Republics",
+        "USSR",
+        "U.S.S.R.",
+        "the Soviet Union",
+        "the Soviets",
+        "CCCP",
+        "SU",
+        "the USSR"
+    ],
+    "name:fin_x_preferred":[
+        "Neuvostoliitto"
+    ],
+    "name:fra_x_preferred":[
+        "Union sovi\u00e9tique"
+    ],
+    "name:hrv_x_preferred":[
+        "Sovjetski Savez"
+    ],
+    "name:hun_x_preferred":[
+        "Szovjetuni\u00f3"
+    ],
+    "name:ita_x_preferred":[
+        "Unione Sovietica"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30d3\u30a8\u30c8\u9023\u90a6"
+    ],
+    "name:nld_x_preferred":[
+        "Sovjet-Unie"
+    ],
+    "name:pol_x_preferred":[
+        "Zwi\u0105zek Socjalistycznych Republik Radzieckich"
+    ],
+    "name:por_x_preferred":[
+        "Uni\u00e3o Sovi\u00e9tica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0421\u0421\u0420"
+    ],
+    "name:spa_x_preferred":[
+        "Uni\u00f3n Sovi\u00e9tica"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0432\u0435\u0437 \u0421\u043e\u0432\u0458\u0435\u0442\u0441\u043a\u0438\u0445 \u0421\u043e\u0446\u0438\u0458\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u043a\u0438\u0445 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sovjetunionen"
+    ],
+    "name:tur_x_preferred":[
+        "Sovyet Sosyalist Cumhuriyetler Birli\u011fi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u044e\u0437 \u0420\u0430\u0434\u044f\u043d\u0441\u044c\u043a\u0438\u0445 \u0421\u043e\u0446\u0456\u0430\u043b\u0456\u0441\u0442\u0438\u0447\u043d\u0438\u0445 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u806f"
+    ],
+    "src:geom":"wikidata",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q15180"
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"0e1131d050dbe3727ce2b63506e0d30b",
+    "wof:hierarchy":[
+        {
+            "country_id":9895094870
+        }
+    ],
+    "wof:id":9895094870,
+    "wof:lastmodified":1795844240,
+    "wof:name":"Soviet Union",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        85632307,
+        85632395,
+        85632513,
+        85632645,
+        85632671,
+        85632685,
+        85632717,
+        85632761,
+        85632773,
+        85633135,
+        85633163,
+        85633269,
+        85633279,
+        85633287,
+        85633805
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.0,
+    65.0,
+    90.0,
+    65.0
+],
+  "geometry": {"coordinates":[90,65],"type":"Point"}
+}

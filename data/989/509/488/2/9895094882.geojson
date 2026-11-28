@@ -1,0 +1,142 @@
+{
+  "id": 9895094882,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2003-02-04",
+    "edtf:inception":"1992-04-27",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.4667,44.8167,20.4667,44.8167",
+    "geom:latitude":44.8167,
+    "geom:longitude":20.4667,
+    "iso:country":"XY",
+    "mailwoman:sources":[
+        {
+            "citation":"Wikidata Q838261, read on 2026-11-28: ISO 3166-3 code YUCS (P773), the standard's code for a country name it has withdrawn.",
+            "property":"wof:placetype",
+            "url":"https://www.wikidata.org/wiki/Q838261"
+        },
+        {
+            "citation":"Wikidata Q838261, read on 2026-11-28: its labels and English aliases",
+            "property":"wof:name",
+            "url":"https://www.wikidata.org/wiki/Q838261"
+        },
+        {
+            "citation":"Wikidata Q838261, read on 2026-11-28: coordinate location (P625)",
+            "property":"geometry",
+            "url":"https://www.wikidata.org/wiki/Q838261"
+        },
+        {
+            "citation":"Wikidata Q838261, read on 2026-11-28: inception (P571) and dissolved, abolished or demolished date (P576)",
+            "property":"edtf:cessation",
+            "url":"https://www.wikidata.org/wiki/Q838261"
+        },
+        {
+            "citation":"Wikidata Q838261, read on 2026-11-28: replaced by (P1366)",
+            "property":"wof:superseded_by",
+            "url":"https://www.wikidata.org/wiki/Q838261"
+        }
+    ],
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u064a\u0648\u063a\u0648\u0633\u0644\u0627\u0641\u064a\u0627 \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a\u0629"
+    ],
+    "name:ces_x_preferred":[
+        "Svazov\u00e1 republika Jugosl\u00e1vie"
+    ],
+    "name:deu_x_preferred":[
+        "Bundesrepublik Jugoslawien"
+    ],
+    "name:eng_x_preferred":[
+        "Federal Republic of Yugoslavia"
+    ],
+    "name:eng_x_variant":[
+        "FR Yugoslavia",
+        "FRY",
+        "Yugoslavia",
+        "Third  Yugoslavia"
+    ],
+    "name:fin_x_preferred":[
+        "Jugoslavian liittotasavalta"
+    ],
+    "name:fra_x_preferred":[
+        "r\u00e9publique f\u00e9d\u00e9rale de Yougoslavie"
+    ],
+    "name:hrv_x_preferred":[
+        "Savezna Republika Jugoslavija"
+    ],
+    "name:hun_x_preferred":[
+        "Jugoszl\u00e1v Sz\u00f6vets\u00e9gi K\u00f6zt\u00e1rsas\u00e1g"
+    ],
+    "name:ita_x_preferred":[
+        "Repubblica Federale di Jugoslavia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2\u9023\u90a6\u5171\u548c\u56fd"
+    ],
+    "name:nld_x_preferred":[
+        "Federale Republiek Joegoslavi\u00eb"
+    ],
+    "name:pol_x_preferred":[
+        "Federalna Republika Jugos\u0142awii"
+    ],
+    "name:por_x_preferred":[
+        "Rep\u00fablica Federal da Jugosl\u00e1via"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u044e\u0437\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042e\u0433\u043e\u0441\u043b\u0430\u0432\u0438\u044f"
+    ],
+    "name:spa_x_preferred":[
+        "Rep\u00fablica Federal de Yugoslavia"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0432\u0435\u0437\u043d\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0408\u0443\u0433\u043e\u0441\u043b\u0430\u0432\u0438\u0458\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "F\u00f6rbundsrepubliken Jugoslavien"
+    ],
+    "name:tur_x_preferred":[
+        "Yugoslavya Federal Cumhuriyeti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u044e\u0437\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u042e\u0433\u043e\u0441\u043b\u0430\u0432\u0456\u044f"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u65af\u62c9\u592b\u8054\u76df\u5171\u548c\u56fd"
+    ],
+    "src:geom":"wikidata",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q838261"
+    },
+    "wof:country":"XY",
+    "wof:geomhash":"5c096227377ab271660410860824c722",
+    "wof:hierarchy":[
+        {
+            "country_id":9895094882
+        }
+    ],
+    "wof:id":9895094882,
+    "wof:lastmodified":1795844240,
+    "wof:name":"Federal Republic of Yugoslavia",
+    "wof:parent_id":-1,
+    "wof:placetype":"country",
+    "wof:repo":"whosonfirst-data-admin-xy",
+    "wof:superseded_by":[
+        9895094874
+    ],
+    "wof:supersedes":[
+        9895094875
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.4667,
+    44.8167,
+    20.4667,
+    44.8167
+],
+  "geometry": {"coordinates":[20.4667,44.8167],"type":"Point"}
+}
